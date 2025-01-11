@@ -1,11 +1,11 @@
-##-my favorite things-
-###-favorite foods-
+## -my favorite things-
+### -favorite foods-
 - tinola
 - chicken 
-###-favorite hobbies-
+### -favorite hobbies-
 - crochet
 - dance
 - watching shows
-###-favorite people-
+### -favorite people-
 - timothy r.
 - aaron h.
