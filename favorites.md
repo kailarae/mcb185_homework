@@ -16,3 +16,7 @@
 | tinola | zenless zone zero | crochet | 
 | flan | ffxv | watch criminal minds | 
 | spam | balatro | dance | 
+
+## my favorites, in another format, again
+**my favorite show at the moment**
+![criminal minds](https://www.serienjunkies.de/assets/images/33/73/33073732-serienposter-von-criminal-minds-cbs-3zfe.jpg)
