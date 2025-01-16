@@ -10,6 +10,11 @@
 - watching criminal minds
 - playing video
 
+**favorite artists**
+- sza
+- official hige dandism
+- txt
+
 ## my favorites, but now as a table
 | **favorite food** | **favorite games** | **favorite things to do** | 
 | ----------------- | ------------------ | --------------------------| 
