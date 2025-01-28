@@ -32,7 +32,12 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ I met Jimmy on Thursday
 	+ Total points: 4
 - Week 3
+	+ Attend class on Tuesday
+	+ Did Unit 0 assessment in class on Tuesday
+	+ Total points: 2
 - Week 4
+	+ Attended class on Tuesday
+	+ Total points: 1
 - Week 5
 - Week 6
 - Week 7
