@@ -39,8 +39,14 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class on Tuesday
 	+ Total points: 1
 - Week 5
+	+ Attended class on Tuesday
+	+ Did not attend class on Thursday to prevent others from getting sick
+	+ Total points: 2
 - Week 6
+	+ Total points: 0
 - Week 7
+	+ Attended class on Tuesday
+	+ Total points: 1
 - Week 8
 - Week 9
 - Week 10
