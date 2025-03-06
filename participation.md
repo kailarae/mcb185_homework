@@ -48,5 +48,14 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class on Tuesday
 	+ Total points: 1
 - Week 8
+	+ Did assessment over Discord
+	+ Total points: 1
 - Week 9
+	+ Attended class on Thursday
+	+ Total points: 1
 - Week 10
+	+ Attended class on Tuesday
+	+ Attended class on Thursday
+	+ Total points: 2
+
+Total participation points: 16
