@@ -58,4 +58,4 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class on Thursday
 	+ Total points: 2
 
-Total participation points: 16
+**Total participation points**: 16
