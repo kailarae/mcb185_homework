@@ -56,7 +56,6 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 10
 	+ Attended class on Tuesday
 	+ Introduced myself to Victor on Tuesday
-	+ Attended class on Thursday
-	+ Total points: 3
+	+ Total points: 2
 
-**Total participation points**: 17
+**Total participation points**: 16
