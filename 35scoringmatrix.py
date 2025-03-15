@@ -4,7 +4,6 @@ alphabet = sys.argv[1]
 matches = sys.argv[2]
 mismatch = sys.argv[3] 
 
-# print header
 print('   ', end=' ')
 for nt in alphabet:
     print(nt, end='   ')
